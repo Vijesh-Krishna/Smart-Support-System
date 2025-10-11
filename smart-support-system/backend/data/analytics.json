@@ -1,0 +1,43 @@
+{
+  "total_users": 19,
+  "failed_queries": [
+    {
+      "product_id": "iphone-17-info",
+      "query": "tell me something about the product",
+      "answer": "I don't have info on that yet. Try rephrasing or contact support.",
+      "timestamp": "2025-10-11T07:37:23.616792"
+    },
+    {
+      "product_id": "iphone-17-info",
+      "query": "which product is this",
+      "answer": "I don't have info on that yet. Try rephrasing or contact support.",
+      "timestamp": "2025-10-11T07:37:36.751285"
+    },
+    {
+      "product_id": "iphone-17-info",
+      "query": "is this iphone 17",
+      "answer": "I don't have info on that yet. Try rephrasing or contact support.",
+      "timestamp": "2025-10-11T07:37:57.095646"
+    },
+    {
+      "product_id": "iphone-17-info",
+      "query": "what are thr frequensis",
+      "answer": "I don't have info on that yet. Try rephrasing or contact support.",
+      "timestamp": "2025-10-11T07:39:43.332048"
+    },
+    {
+      "product_id": "Resume.final",
+      "query": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "answer": "I don't have info on that yet. Try rephrasing or contact support.",
+      "timestamp": "2025-10-11T10:16:17.495965"
+    }
+  ],
+  "queries_per_product": {
+    "return_policy": 65,
+    "Resume.final": 28,
+    "PG_Calendar_July_2025_SEM_I": 3,
+    "Vijesh_Krishna_Resume": 45,
+    "Vijesh_Krishna_Google_Apprenticeship_Resume": 4,
+    "iphone-17-info": 13
+  }
+}

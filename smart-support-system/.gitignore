@@ -1,0 +1,20 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.local
+users.json
+conversation.json
+chroma_db/
+.DS_Store
+
+# Node
+node_modules/
+dist/
+.vscode/
+
+# Logs
+*.log

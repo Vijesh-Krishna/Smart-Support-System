@@ -1,0 +1,1209 @@
+{
+  "vijesh": [
+    {
+      "id": "d638e3f3-769e-4a00-901b-7d3cf08acc65",
+      "title": "How many days do I h...",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "How many days do I have to return a product?",
+          "timestamp": "2025-09-25T08:41:58.352401",
+          "product_id": "return_policy",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "You have 30 days to return a product.",
+          "timestamp": "2025-09-25T08:41:58.352401",
+          "product_id": "return_policy",
+          "sources": [
+            "Return Policy:\n- Items can be returned within 30 days of purchase.\n- Products must be unused and in original packaging.\n- Refunds will be processed within 5 business days."
+          ]
+        }
+      ],
+      "created_at": "2025-09-25T08:41:58.352401",
+      "updated_at": "2025-09-25T08:41:58.352401"
+    },
+    {
+      "id": "eb6745e3-bf31-48c5-9bbc-4328151d45e5",
+      "title": "asdfghjkl",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "asdfghjkl",
+          "timestamp": "2025-09-25T08:42:14.517208",
+          "product_id": "return_policy",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "I don't have that information.",
+          "timestamp": "2025-09-25T08:42:14.517208",
+          "product_id": "return_policy",
+          "sources": [
+            "Return Policy:\n- Items can be returned within 30 days of purchase.\n- Products must be unused and in original packaging.\n- Refunds will be processed within 5 business days."
+          ]
+        }
+      ],
+      "created_at": "2025-09-25T08:42:14.517208",
+      "updated_at": "2025-09-25T08:42:14.517208"
+    },
+    {
+      "id": "6f3ff974-9453-4336-ab6d-35bcb2ef08f4",
+      "title": "asdfghjkl",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "asdfghjkl",
+          "timestamp": "2025-09-25T08:54:04.262021",
+          "product_id": "return_policy",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "I don't have that information.",
+          "timestamp": "2025-09-25T08:54:04.262021",
+          "product_id": "return_policy",
+          "sources": [
+            "Return Policy:\n- Items can be returned within 30 days of purchase.\n- Products must be unused and in original packaging.\n- Refunds will be processed within 5 business days."
+          ]
+        }
+      ],
+      "created_at": "2025-09-25T08:54:04.262021",
+      "updated_at": "2025-09-25T08:54:04.262021"
+    },
+    {
+      "id": "7ecf4a78-3dfe-48ec-874f-08c6f398ccee",
+      "title": "asdfghjkl",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "asdfghjkl",
+          "timestamp": "2025-09-25T08:54:28.080562",
+          "product_id": "return_policy",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "I don't have that information.",
+          "timestamp": "2025-09-25T08:54:28.080562",
+          "product_id": "return_policy",
+          "sources": [
+            "Return Policy:\n- Items can be returned within 30 days of purchase.\n- Products must be unused and in original packaging.\n- Refunds will be processed within 5 business days."
+          ]
+        }
+      ],
+      "created_at": "2025-09-25T08:54:28.080562",
+      "updated_at": "2025-09-25T08:54:28.080562"
+    },
+    {
+      "id": "eb7b88ec-df53-41f5-a2c8-84cf400fbd7c",
+      "title": "asdfghjkl",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "asdfghjkl",
+          "timestamp": "2025-09-25T09:15:12.772144",
+          "product_id": "return_policy",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "I don't have that information.",
+          "timestamp": "2025-09-25T09:15:12.772144",
+          "product_id": "return_policy",
+          "sources": [
+            "Return Policy:\n- Items can be returned within 30 days of purchase.\n- Products must be unused and in original packaging.\n- Refunds will be processed within 5 business days."
+          ]
+        }
+      ],
+      "created_at": "2025-09-25T09:15:12.772144",
+      "updated_at": "2025-09-25T09:15:12.772144"
+    },
+    {
+      "id": "fd2838cd-e6d9-421b-83e6-c4fa2dcde021",
+      "title": "How many days do I h...",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "How many days do I have to return a product?",
+          "timestamp": "2025-09-25T09:15:38.677899",
+          "product_id": "return_policy",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "30 days.",
+          "timestamp": "2025-09-25T09:15:38.677899",
+          "product_id": "return_policy",
+          "sources": [
+            "Return Policy:\n- Items can be returned within 30 days of purchase.\n- Products must be unused and in original packaging.\n- Refunds will be processed within 5 business days."
+          ]
+        }
+      ],
+      "created_at": "2025-09-25T09:15:38.677899",
+      "updated_at": "2025-09-25T09:15:38.677899"
+    },
+    {
+      "id": "c9338007-0668-454a-a181-d811e88f94a1",
+      "title": "asdfg",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "asdfg",
+          "timestamp": "2025-09-25T09:25:16.532281",
+          "product_id": "return_policy",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "I don't have that information.",
+          "timestamp": "2025-09-25T09:25:16.532281",
+          "product_id": "return_policy",
+          "sources": [
+            "Return Policy:\n- Items can be returned within 30 days of purchase.\n- Products must be unused and in original packaging.\n- Refunds will be processed within 5 business days."
+          ]
+        }
+      ],
+      "created_at": "2025-09-25T09:25:16.532281",
+      "updated_at": "2025-09-25T09:25:16.532281"
+    },
+    {
+      "id": "7e0948b2-80e1-4af2-9c35-1a5ddaa73389",
+      "title": "hey",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "hey",
+          "timestamp": "2025-09-25T09:26:21.771793",
+          "product_id": "return_policy",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "I don't have that information.",
+          "timestamp": "2025-09-25T09:26:21.771793",
+          "product_id": "return_policy",
+          "sources": [
+            "Return Policy:\n- Items can be returned within 30 days of purchase.\n- Products must be unused and in original packaging.\n- Refunds will be processed within 5 business days."
+          ]
+        }
+      ],
+      "created_at": "2025-09-25T09:26:21.771793",
+      "updated_at": "2025-09-25T09:26:21.771793"
+    },
+    {
+      "id": "5010bfca-b250-4e6a-a3e4-ee233913d8b9",
+      "title": "hey",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "hey",
+          "timestamp": "2025-09-26T03:55:02.419191",
+          "product_id": "return_policy",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "I don't have any specific information about your query. Can you please provide more context or details about what you are looking for help with?",
+          "timestamp": "2025-09-26T03:55:02.419191",
+          "product_id": "return_policy",
+          "sources": [
+            "Return Policy:\n- Items can be returned within 30 days of purchase.\n- Products must be unused and in original packaging.\n- Refunds will be processed within 5 business days."
+          ]
+        }
+      ],
+      "created_at": "2025-09-26T03:55:02.419191",
+      "updated_at": "2025-09-26T03:55:02.419191"
+    },
+    {
+      "id": "2c7f46ee-7775-4205-96f4-622e269e2e22",
+      "title": "refund policy",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "refund policy",
+          "timestamp": "2025-09-26T03:55:12.492583",
+          "product_id": "return_policy",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "Refunds will be processed within 5 business days.",
+          "timestamp": "2025-09-26T03:55:12.492583",
+          "product_id": "return_policy",
+          "sources": [
+            "Return Policy:\n- Items can be returned within 30 days of purchase.\n- Products must be unused and in original packaging.\n- Refunds will be processed within 5 business days."
+          ]
+        }
+      ],
+      "created_at": "2025-09-26T03:55:12.492583",
+      "updated_at": "2025-09-26T03:55:12.492583"
+    }
+  ],
+  "varun": [
+    {
+      "id": "43284688-429d-4b11-b36e-ca6822a19ab1",
+      "title": "New Chat",
+      "messages": [],
+      "created_at": "2025-10-10T01:11:15.712990",
+      "updated_at": "2025-10-10T01:11:15.715551"
+    },
+    {
+      "id": "fb5c4f7a-bccb-4b21-81ef-d936e7647c9b",
+      "title": "adfadfaf",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "adfadfaf",
+          "timestamp": "2025-10-10T01:11:24.619344",
+          "product_id": "return_policy",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "I don't have that information.",
+          "timestamp": "2025-10-10T01:11:24.634966",
+          "product_id": "return_policy",
+          "sources": [
+            "Return Policy:\n- Items can be returned within 30 days of purchase.\n- Products must be unused and in original packaging.\n- Refunds will be processed within 5 business days."
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "What is - Products must be unused and in original packaging?",
+          "timestamp": "2025-10-10T01:11:26.887397",
+          "product_id": "return_policy",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "Products must be unused and in original packaging.",
+          "timestamp": "2025-10-10T01:11:26.906308",
+          "product_id": "return_policy",
+          "sources": [
+            "Return Policy:\n- Items can be returned within 30 days of purchase.\n- Products must be unused and in original packaging.\n- Refunds will be processed within 5 business days."
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "What is 07/10\nSkills\nProgramming: Python, HTML, CSS, JavaScript, SQL/PostgreSQL\nFramewor?",
+          "timestamp": "2025-10-10T01:11:30.731824",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "I don't have that information.",
+          "timestamp": "2025-10-10T01:11:30.739803",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": [
+            "world challenges through innovative software solutions.\nEducation\nBachelor of Computer Applications (BCA) \u2013 Kristu Jayanti University, Bengaluru | 2022\u20132025 | CGPA: 8.07/10\nSkills\nProgramming: Python,",
+            "Vijesh Krishna\nBengaluru, Karnataka | +91 9886393788 | vijeshkrishna91@gmail.com | Portfolio: vijeshkrishna.netlify.app\nLinkedIn: https://www.linkedin.com/in/vijesh-krishna/ | GitHub: https://github.c",
+            "time insights.\n\uf06c\nGained hands-on experience with iterative development, requirement clarification, and teamwork in an on-site\nenvironment.\nAI Azure Internship \u2013 Edunet Foundation (AICTE) in Collaborat"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "afdadfaf",
+          "timestamp": "2025-10-10T01:16:47.299638",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "I don't have info on that yet. Try rephrasing or contact support.",
+          "timestamp": "2025-10-10T01:16:47.299638",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": [
+            "time insights.\n\uf06c\nGained hands-on experience with iterative development, requirement clarification, and teamwork in an on-site\nenvironment.\nAI Azure Internship \u2013 Edunet Foundation (AICTE) in Collaborat",
+            "ensuring accessibility and mobile-first design.\nCertifications\nWorkshops: Gained exposure to Data Analytics (Power BI, Kaggle, Excel), Generative AI (10+ AI tools), Cloud\nDeployment (AWS S3), and UI/U",
+            "Vijesh Krishna\nBengaluru, Karnataka | +91 9886393788 | vijeshkrishna91@gmail.com | Portfolio: vijeshkrishna.netlify.app\nLinkedIn: https://www.linkedin.com/in/vijesh-krishna/ | GitHub: https://github.c"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "What is world challenges through innovative software solutions?",
+          "timestamp": "2025-10-10T01:16:49.621128",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "Known for solving real-world challenges through innovative software solutions.",
+          "timestamp": "2025-10-10T01:16:49.629107",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": [
+            "Vijesh Krishna\nBengaluru, Karnataka | +91 9886393788 | vijeshkrishna91@gmail.com | Portfolio: vijeshkrishna.netlify.app\nLinkedIn: https://www.linkedin.com/in/vijesh-krishna/ | GitHub: https://github.c",
+            "ensuring accessibility and mobile-first design.\nCertifications\nWorkshops: Gained exposure to Data Analytics (Power BI, Kaggle, Excel), Generative AI (10+ AI tools), Cloud\nDeployment (AWS S3), and UI/U",
+            "time insights.\n\uf06c\nGained hands-on experience with iterative development, requirement clarification, and teamwork in an on-site\nenvironment.\nAI Azure Internship \u2013 Edunet Foundation (AICTE) in Collaborat"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "What is Education\nBachelor of Computer Applications (BCA) \u2013 Kristu Jayanti University, B?",
+          "timestamp": "2025-10-10T01:17:40.845906",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "Bachelor of Computer Applications (BCA) \u2013 Kristu Jayanti University, Bengaluru | 2022\u20132025 | CGPA: 8.07/10",
+          "timestamp": "2025-10-10T01:17:40.854884",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": [
+            "Vijesh Krishna\nBengaluru, Karnataka | +91 9886393788 | vijeshkrishna91@gmail.com | Portfolio: vijeshkrishna.netlify.app\nLinkedIn: https://www.linkedin.com/in/vijesh-krishna/ | GitHub: https://github.c",
+            "world challenges through innovative software solutions.\nEducation\nBachelor of Computer Applications (BCA) \u2013 Kristu Jayanti University, Bengaluru | 2022\u20132025 | CGPA: 8.07/10\nSkills\nProgramming: Python,",
+            "ensuring accessibility and mobile-first design.\nCertifications\nWorkshops: Gained exposure to Data Analytics (Power BI, Kaggle, Excel), Generative AI (10+ AI tools), Cloud\nDeployment (AWS S3), and UI/U"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "adagdgag",
+          "timestamp": "2025-10-10T01:17:44.868358",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "I don't have info on that yet. Try rephrasing or contact support.",
+          "timestamp": "2025-10-10T01:17:44.868418",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": [
+            "world challenges through innovative software solutions.\nEducation\nBachelor of Computer Applications (BCA) \u2013 Kristu Jayanti University, Bengaluru | 2022\u20132025 | CGPA: 8.07/10\nSkills\nProgramming: Python,",
+            "Vijesh Krishna\nBengaluru, Karnataka | +91 9886393788 | vijeshkrishna91@gmail.com | Portfolio: vijeshkrishna.netlify.app\nLinkedIn: https://www.linkedin.com/in/vijesh-krishna/ | GitHub: https://github.c",
+            "time insights.\n\uf06c\nGained hands-on experience with iterative development, requirement clarification, and teamwork in an on-site\nenvironment.\nAI Azure Internship \u2013 Edunet Foundation (AICTE) in Collaborat"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "asdgasdgsg",
+          "timestamp": "2025-10-10T01:19:26.776348",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "I don't have info on that yet. Try rephrasing or contact support.",
+          "timestamp": "2025-10-10T01:19:26.787855",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": [
+            "Vijesh Krishna\nBengaluru, Karnataka | +91 9886393788 | vijeshkrishna91@gmail.com | Portfolio: vijeshkrishna.netlify.app\nLinkedIn: https://www.linkedin.com/in/vijesh-krishna/ | GitHub: https://github.c",
+            "world challenges through innovative software solutions.\nEducation\nBachelor of Computer Applications (BCA) \u2013 Kristu Jayanti University, Bengaluru | 2022\u20132025 | CGPA: 8.07/10\nSkills\nProgramming: Python,",
+            "time insights.\n\uf06c\nGained hands-on experience with iterative development, requirement clarification, and teamwork in an on-site\nenvironment.\nAI Azure Internship \u2013 Edunet Foundation (AICTE) in Collaborat"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "What is world challenges through innovative software solutions?",
+          "timestamp": "2025-10-10T01:19:28.204602",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "Known for solving real-world challenges through innovative software solutions.",
+          "timestamp": "2025-10-10T01:19:28.218480",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": [
+            "Vijesh Krishna\nBengaluru, Karnataka | +91 9886393788 | vijeshkrishna91@gmail.com | Portfolio: vijeshkrishna.netlify.app\nLinkedIn: https://www.linkedin.com/in/vijesh-krishna/ | GitHub: https://github.c",
+            "ensuring accessibility and mobile-first design.\nCertifications\nWorkshops: Gained exposure to Data Analytics (Power BI, Kaggle, Excel), Generative AI (10+ AI tools), Cloud\nDeployment (AWS S3), and UI/U",
+            "time insights.\n\uf06c\nGained hands-on experience with iterative development, requirement clarification, and teamwork in an on-site\nenvironment.\nAI Azure Internship \u2013 Edunet Foundation (AICTE) in Collaborat"
+          ]
+        }
+      ],
+      "created_at": "2025-10-10T01:11:16.839567",
+      "updated_at": "2025-10-10T01:19:28.218480"
+    },
+    {
+      "id": "98e6e99f-a7b8-456c-88df-621a734e777a",
+      "title": "adfadfadf",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "adfadfadf",
+          "timestamp": "2025-10-10T01:21:59.743647",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "I don't have info on that yet. Try rephrasing or contact support.",
+          "timestamp": "2025-10-10T01:21:59.754619",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": [
+            "time insights.\n\uf06c\nGained hands-on experience with iterative development, requirement clarification, and teamwork in an on-site\nenvironment.\nAI Azure Internship \u2013 Edunet Foundation (AICTE) in Collaborat",
+            "Vijesh Krishna\nBengaluru, Karnataka | +91 9886393788 | vijeshkrishna91@gmail.com | Portfolio: vijeshkrishna.netlify.app\nLinkedIn: https://www.linkedin.com/in/vijesh-krishna/ | GitHub: https://github.c",
+            "ensuring accessibility and mobile-first design.\nCertifications\nWorkshops: Gained exposure to Data Analytics (Power BI, Kaggle, Excel), Generative AI (10+ AI tools), Cloud\nDeployment (AWS S3), and UI/U"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "What is world challenges through innovative software solutions?",
+          "timestamp": "2025-10-10T01:22:01.350153",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "A passion for solving real-world challenges through innovative software solutions.",
+          "timestamp": "2025-10-10T01:22:01.353803",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": [
+            "Vijesh Krishna\nBengaluru, Karnataka | +91 9886393788 | vijeshkrishna91@gmail.com | Portfolio: vijeshkrishna.netlify.app\nLinkedIn: https://www.linkedin.com/in/vijesh-krishna/ | GitHub: https://github.c",
+            "ensuring accessibility and mobile-first design.\nCertifications\nWorkshops: Gained exposure to Data Analytics (Power BI, Kaggle, Excel), Generative AI (10+ AI tools), Cloud\nDeployment (AWS S3), and UI/U",
+            "time insights.\n\uf06c\nGained hands-on experience with iterative development, requirement clarification, and teamwork in an on-site\nenvironment.\nAI Azure Internship \u2013 Edunet Foundation (AICTE) in Collaborat"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "What is 07/10\nSkills\nProgramming: Python, HTML, CSS, JavaScript, SQL/PostgreSQL\nFramewor?",
+          "timestamp": "2025-10-10T01:22:10.685743",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "I don't have info on that yet. Try rephrasing or contact support.",
+          "timestamp": "2025-10-10T01:22:10.685743",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": [
+            "world challenges through innovative software solutions.\nEducation\nBachelor of Computer Applications (BCA) \u2013 Kristu Jayanti University, Bengaluru | 2022\u20132025 | CGPA: 8.07/10\nSkills\nProgramming: Python,",
+            "Vijesh Krishna\nBengaluru, Karnataka | +91 9886393788 | vijeshkrishna91@gmail.com | Portfolio: vijeshkrishna.netlify.app\nLinkedIn: https://www.linkedin.com/in/vijesh-krishna/ | GitHub: https://github.c",
+            "time insights.\n\uf06c\nGained hands-on experience with iterative development, requirement clarification, and teamwork in an on-site\nenvironment.\nAI Azure Internship \u2013 Edunet Foundation (AICTE) in Collaborat"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "What is Return Policy:\n- Items can be returned within 30 days of purchase?",
+          "timestamp": "2025-10-10T01:22:18.686157",
+          "product_id": "return_policy",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "Yes, items can be returned within 30 days of purchase.",
+          "timestamp": "2025-10-10T01:22:18.693665",
+          "product_id": "return_policy",
+          "sources": [
+            "Return Policy:\n- Items can be returned within 30 days of purchase.\n- Products must be unused and in original packaging.\n- Refunds will be processed within 5 business days."
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "adfadfadf",
+          "timestamp": "2025-10-10T01:42:50.197638",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "I don't have info on that yet. Try rephrasing or contact support.",
+          "timestamp": "2025-10-10T01:42:50.210604",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": [
+            "time insights.\n\uf06c\nGained hands-on experience with iterative development, requirement clarification, and teamwork in an on-site\nenvironment.\nAI Azure Internship \u2013 Edunet Foundation (AICTE) in Collaborat",
+            "Vijesh Krishna\nBengaluru, Karnataka | +91 9886393788 | vijeshkrishna91@gmail.com | Portfolio: vijeshkrishna.netlify.app\nLinkedIn: https://www.linkedin.com/in/vijesh-krishna/ | GitHub: https://github.c",
+            "ensuring accessibility and mobile-first design.\nCertifications\nWorkshops: Gained exposure to Data Analytics (Power BI, Kaggle, Excel), Generative AI (10+ AI tools), Cloud\nDeployment (AWS S3), and UI/U"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "adfadf",
+          "timestamp": "2025-10-10T01:42:53.757574",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "I don't have info on that yet. Try rephrasing or contact support.",
+          "timestamp": "2025-10-10T01:42:53.767636",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": [
+            "time insights.\n\uf06c\nGained hands-on experience with iterative development, requirement clarification, and teamwork in an on-site\nenvironment.\nAI Azure Internship \u2013 Edunet Foundation (AICTE) in Collaborat",
+            "ensuring accessibility and mobile-first design.\nCertifications\nWorkshops: Gained exposure to Data Analytics (Power BI, Kaggle, Excel), Generative AI (10+ AI tools), Cloud\nDeployment (AWS S3), and UI/U",
+            "Vijesh Krishna\nBengaluru, Karnataka | +91 9886393788 | vijeshkrishna91@gmail.com | Portfolio: vijeshkrishna.netlify.app\nLinkedIn: https://www.linkedin.com/in/vijesh-krishna/ | GitHub: https://github.c"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "fadsfadf",
+          "timestamp": "2025-10-10T01:48:20.865555",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "I don't have info on that yet. Try rephrasing or contact support.",
+          "timestamp": "2025-10-10T01:48:20.878522",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": [
+            "time insights.\n\uf06c\nGained hands-on experience with iterative development, requirement clarification, and teamwork in an on-site\nenvironment.\nAI Azure Internship \u2013 Edunet Foundation (AICTE) in Collaborat",
+            "ensuring accessibility and mobile-first design.\nCertifications\nWorkshops: Gained exposure to Data Analytics (Power BI, Kaggle, Excel), Generative AI (10+ AI tools), Cloud\nDeployment (AWS S3), and UI/U",
+            "world challenges through innovative software solutions.\nEducation\nBachelor of Computer Applications (BCA) \u2013 Kristu Jayanti University, Bengaluru | 2022\u20132025 | CGPA: 8.07/10\nSkills\nProgramming: Python,"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "adfaf",
+          "timestamp": "2025-10-10T01:57:51.331578",
+          "product_id": "return_policy",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "I don't have info on that yet. Try rephrasing or contact support.",
+          "timestamp": "2025-10-10T01:57:51.343667",
+          "product_id": "return_policy",
+          "sources": [
+            "Return Policy:\n- Items can be returned within 30 days of purchase.\n- Products must be unused and in original packaging.\n- Refunds will be processed within 5 business days."
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "What is Return Policy:\n- Items can be returned within 30 days of purchase?",
+          "timestamp": "2025-10-10T01:57:52.878171",
+          "product_id": "return_policy",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "Yes, items can be returned within 30 days of purchase.",
+          "timestamp": "2025-10-10T01:57:52.896998",
+          "product_id": "return_policy",
+          "sources": [
+            "Return Policy:\n- Items can be returned within 30 days of purchase.\n- Products must be unused and in original packaging.\n- Refunds will be processed within 5 business days."
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "What is 07/10\nSkills\nProgramming: Python, HTML, CSS, JavaScript, SQL/PostgreSQL\nFramewor?",
+          "timestamp": "2025-10-10T01:57:57.213375",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "I don't have info on that yet. Try rephrasing or contact support.",
+          "timestamp": "2025-10-10T01:57:57.224454",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": [
+            "world challenges through innovative software solutions.\nEducation\nBachelor of Computer Applications (BCA) \u2013 Kristu Jayanti University, Bengaluru | 2022\u20132025 | CGPA: 8.07/10\nSkills\nProgramming: Python,",
+            "Vijesh Krishna\nBengaluru, Karnataka | +91 9886393788 | vijeshkrishna91@gmail.com | Portfolio: vijeshkrishna.netlify.app\nLinkedIn: https://www.linkedin.com/in/vijesh-krishna/ | GitHub: https://github.c",
+            "time insights.\n\uf06c\nGained hands-on experience with iterative development, requirement clarification, and teamwork in an on-site\nenvironment.\nAI Azure Internship \u2013 Edunet Foundation (AICTE) in Collaborat"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "What is Return Policy:\n- Items can be returned within 30 days of purchase?",
+          "timestamp": "2025-10-10T02:02:34.645119",
+          "product_id": "return_policy",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "Yes, items can be returned within 30 days of purchase.",
+          "timestamp": "2025-10-10T02:02:34.661906",
+          "product_id": "return_policy",
+          "sources": [
+            "Return Policy:\n- Items can be returned within 30 days of purchase.\n- Products must be unused and in original packaging.\n- Refunds will be processed within 5 business days."
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "What is Education\nBachelor of Computer Applications (BCA) \u2013 Kristu Jayanti University, B?",
+          "timestamp": "2025-10-10T02:02:39.590635",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "Bachelor of Computer Applications (BCA) \u2013 Kristu Jayanti University, Bengaluru | 2022\u20132025 | CGPA: 8.07/10",
+          "timestamp": "2025-10-10T02:02:39.599491",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": [
+            "Vijesh Krishna\nBengaluru, Karnataka | +91 9886393788 | vijeshkrishna91@gmail.com | Portfolio: vijeshkrishna.netlify.app\nLinkedIn: https://www.linkedin.com/in/vijesh-krishna/ | GitHub: https://github.c",
+            "world challenges through innovative software solutions.\nEducation\nBachelor of Computer Applications (BCA) \u2013 Kristu Jayanti University, Bengaluru | 2022\u20132025 | CGPA: 8.07/10\nSkills\nProgramming: Python,",
+            "ensuring accessibility and mobile-first design.\nCertifications\nWorkshops: Gained exposure to Data Analytics (Power BI, Kaggle, Excel), Generative AI (10+ AI tools), Cloud\nDeployment (AWS S3), and UI/U"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "What is - Products must be unused and in original packaging?",
+          "timestamp": "2025-10-10T02:02:43.212288",
+          "product_id": "return_policy",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "Products must be unused and in original packaging.",
+          "timestamp": "2025-10-10T02:02:43.223257",
+          "product_id": "return_policy",
+          "sources": [
+            "Return Policy:\n- Items can be returned within 30 days of purchase.\n- Products must be unused and in original packaging.\n- Refunds will be processed within 5 business days."
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "adgfagasg",
+          "timestamp": "2025-10-10T02:02:49.706959",
+          "product_id": "return_policy",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "I don't have info on that yet. Try rephrasing or contact support.",
+          "timestamp": "2025-10-10T02:02:49.719924",
+          "product_id": "return_policy",
+          "sources": [
+            "Return Policy:\n- Items can be returned within 30 days of purchase.\n- Products must be unused and in original packaging.\n- Refunds will be processed within 5 business days."
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "What is 07/10\nSkills\nProgramming: Python, HTML, CSS, JavaScript, SQL/PostgreSQL\nFramewor?",
+          "timestamp": "2025-10-10T02:06:26.178490",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "I don't have info on that yet. Try rephrasing or contact support.",
+          "timestamp": "2025-10-10T02:06:26.194446",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": [
+            "world challenges through innovative software solutions.\nEducation\nBachelor of Computer Applications (BCA) \u2013 Kristu Jayanti University, Bengaluru | 2022\u20132025 | CGPA: 8.07/10\nSkills\nProgramming: Python,",
+            "Vijesh Krishna\nBengaluru, Karnataka | +91 9886393788 | vijeshkrishna91@gmail.com | Portfolio: vijeshkrishna.netlify.app\nLinkedIn: https://www.linkedin.com/in/vijesh-krishna/ | GitHub: https://github.c",
+            "time insights.\n\uf06c\nGained hands-on experience with iterative development, requirement clarification, and teamwork in an on-site\nenvironment.\nAI Azure Internship \u2013 Edunet Foundation (AICTE) in Collaborat"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "What is Education\nBachelor of Computer Applications (BCA) \u2013 Kristu Jayanti University, B?",
+          "timestamp": "2025-10-10T02:09:00.019250",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "Bachelor of Computer Applications (BCA) \u2013 Kristu Jayanti University, Bengaluru | 2022\u20132025 | CGPA: 8.07/10",
+          "timestamp": "2025-10-10T02:09:00.030315",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": [
+            "Vijesh Krishna\nBengaluru, Karnataka | +91 9886393788 | vijeshkrishna91@gmail.com | Portfolio: vijeshkrishna.netlify.app\nLinkedIn: https://www.linkedin.com/in/vijesh-krishna/ | GitHub: https://github.c",
+            "world challenges through innovative software solutions.\nEducation\nBachelor of Computer Applications (BCA) \u2013 Kristu Jayanti University, Bengaluru | 2022\u20132025 | CGPA: 8.07/10\nSkills\nProgramming: Python,",
+            "ensuring accessibility and mobile-first design.\nCertifications\nWorkshops: Gained exposure to Data Analytics (Power BI, Kaggle, Excel), Generative AI (10+ AI tools), Cloud\nDeployment (AWS S3), and UI/U"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "What is world challenges through innovative software solutions?",
+          "timestamp": "2025-10-11T05:09:53.996833",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "A passion for solving real-world challenges through innovative software solutions.",
+          "timestamp": "2025-10-11T05:09:54.009798",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": [
+            "Vijesh Krishna\nBengaluru, Karnataka | +91 9886393788 | vijeshkrishna91@gmail.com | Portfolio: vijeshkrishna.netlify.app\nLinkedIn: https://www.linkedin.com/in/vijesh-krishna/ | GitHub: https://github.c",
+            "ensuring accessibility and mobile-first design.\nCertifications\nWorkshops: Gained exposure to Data Analytics (Power BI, Kaggle, Excel), Generative AI (10+ AI tools), Cloud\nDeployment (AWS S3), and UI/U",
+            "time insights.\n\uf06c\nGained hands-on experience with iterative development, requirement clarification, and teamwork in an on-site\nenvironment.\nAI Azure Internship \u2013 Edunet Foundation (AICTE) in Collaborat"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "ads",
+          "timestamp": "2025-10-11T05:11:59.041759",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "I don't have info on that yet. Try rephrasing or contact support.",
+          "timestamp": "2025-10-11T05:11:59.055721",
+          "product_id": "Vijesh_Krishna_Resume",
+          "sources": [
+            "world challenges through innovative software solutions.\nEducation\nBachelor of Computer Applications (BCA) \u2013 Kristu Jayanti University, Bengaluru | 2022\u20132025 | CGPA: 8.07/10\nSkills\nProgramming: Python,",
+            "Vijesh Krishna\nBengaluru, Karnataka | +91 9886393788 | vijeshkrishna91@gmail.com | Portfolio: vijeshkrishna.netlify.app\nLinkedIn: https://www.linkedin.com/in/vijesh-krishna/ | GitHub: https://github.c",
+            "time insights.\n\uf06c\nGained hands-on experience with iterative development, requirement clarification, and teamwork in an on-site\nenvironment.\nAI Azure Internship \u2013 Edunet Foundation (AICTE) in Collaborat"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "What is Vijesh Krishna\nBengaluru, Karnataka | +91 9886393788 | vijeshkrishna91@gmail?",
+          "timestamp": "2025-10-11T06:05:11.116858",
+          "product_id": "Vijesh_Krishna_Google_Apprenticeship_Resume",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "Vijesh Krishna.",
+          "timestamp": "2025-10-11T06:05:11.130822",
+          "product_id": "Vijesh_Krishna_Google_Apprenticeship_Resume",
+          "sources": [
+            "Vijesh Krishna\nBengaluru, Karnataka | +91 9886393788 | vijeshkrishna91@gmail.com | Portfolio: vijeshkrishna.netlify.app\nLinkedIn: https://www.linkedin.com/in/vijesh-krishna/ | Github: https://github.c",
+            "keen interest in applying problem-solving skills to real-world challenges through Google\u2019s Software\nApplication Development Apprenticeship.\nEducation\nBachelor of Computer Applications (BCA) \u2013 Kristu J",
+            "AI Azure Internship (Microsoft\u2013AICTE, Edunet Foundation) | 11th Jun 2025 to 15th Jul 2025\nCompleted a 4-week internship on AI with Azure, where I built a simple web application using AI-powered APIs ("
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "What is app\nLinkedIn: https://www?",
+          "timestamp": "2025-10-11T06:05:21.642425",
+          "product_id": "Vijesh_Krishna_Google_Apprenticeship_Resume",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "I don't have info on that yet. Try rephrasing or contact support.",
+          "timestamp": "2025-10-11T06:05:21.656386",
+          "product_id": "Vijesh_Krishna_Google_Apprenticeship_Resume",
+          "sources": [
+            "AI Azure Internship (Microsoft\u2013AICTE, Edunet Foundation) | 11th Jun 2025 to 15th Jul 2025\nCompleted a 4-week internship on AI with Azure, where I built a simple web application using AI-powered APIs (",
+            "Responsive Web Applications: Created dynamic and responsive websites using HTML, CSS, JavaScript, and React.js,\nensuring accessibility and mobile-first design.\nCertifications\nWorkshops: Gained exposur",
+            "Vijesh Krishna\nBengaluru, Karnataka | +91 9886393788 | vijeshkrishna91@gmail.com | Portfolio: vijeshkrishna.netlify.app\nLinkedIn: https://www.linkedin.com/in/vijesh-krishna/ | Github: https://github.c"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "whats the content here",
+          "timestamp": "2025-10-11T06:05:36.202824",
+          "product_id": "Vijesh_Krishna_Google_Apprenticeship_Resume",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "The content appears to be a collection of three documents (doc_1, doc_2, and doc_3) that contain information about a person named Vijesh Krishna, including their education, skills, experience, and certifications.",
+          "timestamp": "2025-10-11T06:05:36.220773",
+          "product_id": "Vijesh_Krishna_Google_Apprenticeship_Resume",
+          "sources": [
+            "Responsive Web Applications: Created dynamic and responsive websites using HTML, CSS, JavaScript, and React.js,\nensuring accessibility and mobile-first design.\nCertifications\nWorkshops: Gained exposur",
+            "Vijesh Krishna\nBengaluru, Karnataka | +91 9886393788 | vijeshkrishna91@gmail.com | Portfolio: vijeshkrishna.netlify.app\nLinkedIn: https://www.linkedin.com/in/vijesh-krishna/ | Github: https://github.c",
+            "keen interest in applying problem-solving skills to real-world challenges through Google\u2019s Software\nApplication Development Apprenticeship.\nEducation\nBachelor of Computer Applications (BCA) \u2013 Kristu J"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "tell about yourself",
+          "timestamp": "2025-10-11T06:05:57.293282",
+          "product_id": "Vijesh_Krishna_Google_Apprenticeship_Resume",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "I'm Vijesh Krishna, a motivated BCA graduate with strong foundations in Python, web technologies (React.js, SQL), and core software development concepts. I have experience in building practical applications, including an SOS Alert Android app and contributing to the initial development of an internal CRM tool. I'm currently developing an AI-powered Smart Support system leveraging LangChain and RAG. I'm recognized for adaptability, quick learning, teamwork, and clear communication, with a keen interest in applying problem-solving skills to real-world challenges.",
+          "timestamp": "2025-10-11T06:05:57.315223",
+          "product_id": "Vijesh_Krishna_Google_Apprenticeship_Resume",
+          "sources": [
+            "Vijesh Krishna\nBengaluru, Karnataka | +91 9886393788 | vijeshkrishna91@gmail.com | Portfolio: vijeshkrishna.netlify.app\nLinkedIn: https://www.linkedin.com/in/vijesh-krishna/ | Github: https://github.c",
+            "keen interest in applying problem-solving skills to real-world challenges through Google\u2019s Software\nApplication Development Apprenticeship.\nEducation\nBachelor of Computer Applications (BCA) \u2013 Kristu J",
+            "AI Azure Internship (Microsoft\u2013AICTE, Edunet Foundation) | 11th Jun 2025 to 15th Jul 2025\nCompleted a 4-week internship on AI with Azure, where I built a simple web application using AI-powered APIs ("
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "What is For EU/EFTA/UK Consumers: Apple means Apple \nDistribution International Ltd?",
+          "timestamp": "2025-10-11T07:35:43.535959",
+          "product_id": "iphone-17-info",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "Apple Distribution International Ltd., Hollyhill Industrial Estate, Cork, Ireland.",
+          "timestamp": "2025-10-11T07:35:43.559893",
+          "product_id": "iphone-17-info",
+          "sources": [
+            "a claim under this warranty.\nFor EU/EFTA/UK Consumers: Apple means Apple \nDistribution International Ltd., Hollyhill Industrial Estate, \nCork, Ireland. Consumers might have remedies free \nof charge ag",
+            "nor damage caused by accident or abuse. To obtain \nservice, call Apple or visit an Apple Store or an Apple \nAuthorized Service Provider\u2014available service options are \ndependent on the country in which",
+            "Medical Device Interference\niPhone contains magnets as well as components and/or \nradios that may interfere with medical devices. See \n\u201cImportant safety information\u201d in the iPhone User Guide.\nAccessib"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "What is a claim under this warranty?",
+          "timestamp": "2025-10-11T07:35:51.238701",
+          "product_id": "iphone-17-info",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "A claim under this warranty refers to the process of submitting a valid request to Apple for repair, replacement, or refund of a hardware device that is defective in materials and workmanship, as per the warranty terms.",
+          "timestamp": "2025-10-11T07:35:51.260641",
+          "product_id": "iphone-17-info",
+          "sources": [
+            "a claim under this warranty.\nFor EU/EFTA/UK Consumers: Apple means Apple \nDistribution International Ltd., Hollyhill Industrial Estate, \nCork, Ireland. Consumers might have remedies free \nof charge ag",
+            "disposed of separately from household waste. When this \nproduct reaches its end of life, take it to a collection point \ndesignated by local authorities. The separate collection \nand recycling of your ",
+            "nor damage caused by accident or abuse. To obtain \nservice, call Apple or visit an Apple Store or an Apple \nAuthorized Service Provider\u2014available service options are \ndependent on the country in which"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "What is , Hollyhill Industrial Estate, \nCork, Ireland?",
+          "timestamp": "2025-10-11T07:36:06.942701",
+          "product_id": "iphone-17-info",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "Apple's EU representative is located at Hollyhill Industrial Estate, Cork, Ireland.",
+          "timestamp": "2025-10-11T07:36:06.958659",
+          "product_id": "iphone-17-info",
+          "sources": [
+            "a claim under this warranty.\nFor EU/EFTA/UK Consumers: Apple means Apple \nDistribution International Ltd., Hollyhill Industrial Estate, \nCork, Ireland. Consumers might have remedies free \nof charge ag",
+            "Medical Device Interference\niPhone contains magnets as well as components and/or \nradios that may interfere with medical devices. See \n\u201cImportant safety information\u201d in the iPhone User Guide.\nAccessib",
+            "nor damage caused by accident or abuse. To obtain \nservice, call Apple or visit an Apple Store or an Apple \nAuthorized Service Provider\u2014available service options are \ndependent on the country in which"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "what is the refund policy",
+          "timestamp": "2025-10-11T07:36:29.600397",
+          "product_id": "iphone-17-info",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "If you submit a valid claim under this warranty, Apple will either repair, replace, or refund your hardware device at its own discretion.",
+          "timestamp": "2025-10-11T07:36:29.618349",
+          "product_id": "iphone-17-info",
+          "sources": [
+            "disposed of separately from household waste. When this \nproduct reaches its end of life, take it to a collection point \ndesignated by local authorities. The separate collection \nand recycling of your ",
+            "nor damage caused by accident or abuse. To obtain \nservice, call Apple or visit an Apple Store or an Apple \nAuthorized Service Provider\u2014available service options are \ndependent on the country in which",
+            "a claim under this warranty.\nFor EU/EFTA/UK Consumers: Apple means Apple \nDistribution International Ltd., Hollyhill Industrial Estate, \nCork, Ireland. Consumers might have remedies free \nof charge ag"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "what are the valid claim",
+          "timestamp": "2025-10-11T07:36:43.948808",
+          "product_id": "iphone-17-info",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "To obtain service, you must submit a valid claim under this warranty. According to Source 3 (doc_3), a valid claim is one that is submitted for damage not caused by accident or abuse.",
+          "timestamp": "2025-10-11T07:36:43.964768",
+          "product_id": "iphone-17-info",
+          "sources": [
+            "a claim under this warranty.\nFor EU/EFTA/UK Consumers: Apple means Apple \nDistribution International Ltd., Hollyhill Industrial Estate, \nCork, Ireland. Consumers might have remedies free \nof charge ag",
+            "Medical Device Interference\niPhone contains magnets as well as components and/or \nradios that may interfere with medical devices. See \n\u201cImportant safety information\u201d in the iPhone User Guide.\nAccessib",
+            "nor damage caused by accident or abuse. To obtain \nservice, call Apple or visit an Apple Store or an Apple \nAuthorized Service Provider\u2014available service options are \ndependent on the country in which"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "list some",
+          "timestamp": "2025-10-11T07:36:49.875697",
+          "product_id": "iphone-17-info",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "It seems like you started to ask a question but didn't finish. Could you please provide the rest of the question so I can assist you better?",
+          "timestamp": "2025-10-11T07:36:49.893699",
+          "product_id": "iphone-17-info",
+          "sources": [
+            "disposed of separately from household waste. When this \nproduct reaches its end of life, take it to a collection point \ndesignated by local authorities. The separate collection \nand recycling of your ",
+            "International Ltd., Hollyhill Industrial Estate, Cork, \nIreland. Apple\u2019s UK representative is Apple UK Ltd., \n280 Bishopsgate, London, EC2M 4RB.\n    \n    \nA3520: The power delivered by the charger mus",
+            "38, 40, 42)\u00a0\n< 25.7dBm\nFrequency\nMaximum Power\nLTE/5GNR (41, 77, 78)\u00a0\n< 28.7dBm\n13.56 MHz\u00a0\n< 42dB\u00b5A/m @10m\u00a0\n360 kHz\n< -15dB\u00b5A/m @10m\u00a0\n6.0 - 8.5 GHz\n< 0dBm/50 MHz\u00a0\n1610 - 1626.5 MHz\u00a0\n< 27.5dBm\u00a0\n2.4 GHz"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "list some valid claims ",
+          "timestamp": "2025-10-11T07:37:02.097623",
+          "product_id": "iphone-17-info",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "Based on the provided context, valid claims under the warranty include:\n\n- Defects in materials\n- Defects in workmanship\n- Lack of conformity (for EU/EFTA/UK Consumers)\n\nPlease note that these claims are subject to the terms and conditions of the warranty, and may require proof of purchase details.",
+          "timestamp": "2025-10-11T07:37:02.119564",
+          "product_id": "iphone-17-info",
+          "sources": [
+            "a claim under this warranty.\nFor EU/EFTA/UK Consumers: Apple means Apple \nDistribution International Ltd., Hollyhill Industrial Estate, \nCork, Ireland. Consumers might have remedies free \nof charge ag",
+            "nor damage caused by accident or abuse. To obtain \nservice, call Apple or visit an Apple Store or an Apple \nAuthorized Service Provider\u2014available service options are \ndependent on the country in which",
+            "disposed of separately from household waste. When this \nproduct reaches its end of life, take it to a collection point \ndesignated by local authorities. The separate collection \nand recycling of your "
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "tell me something about the product",
+          "timestamp": "2025-10-11T07:37:23.576900",
+          "product_id": "iphone-17-info",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "I don't have info on that yet. Try rephrasing or contact support.",
+          "timestamp": "2025-10-11T07:37:23.594851",
+          "product_id": "iphone-17-info",
+          "sources": [
+            "disposed of separately from household waste. When this \nproduct reaches its end of life, take it to a collection point \ndesignated by local authorities. The separate collection \nand recycling of your ",
+            "a claim under this warranty.\nFor EU/EFTA/UK Consumers: Apple means Apple \nDistribution International Ltd., Hollyhill Industrial Estate, \nCork, Ireland. Consumers might have remedies free \nof charge ag",
+            "Ed. 3., as described in Laser Notice No. 56, dated May 8, \n2019. Caution: This device contains one or more lasers. \nUse other than as described in the user guide, repair, or \ndisassembly may cause dam"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "which product is this",
+          "timestamp": "2025-10-11T07:37:36.709398",
+          "product_id": "iphone-17-info",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "I don't have info on that yet. Try rephrasing or contact support.",
+          "timestamp": "2025-10-11T07:37:36.728347",
+          "product_id": "iphone-17-info",
+          "sources": [
+            "a claim under this warranty.\nFor EU/EFTA/UK Consumers: Apple means Apple \nDistribution International Ltd., Hollyhill Industrial Estate, \nCork, Ireland. Consumers might have remedies free \nof charge ag",
+            "disposed of separately from household waste. When this \nproduct reaches its end of life, take it to a collection point \ndesignated by local authorities. The separate collection \nand recycling of your ",
+            "\u201cImportant safety information\u201d in the iPhone User Guide.\nLasers\nThe proximity sensor and the front camera system \ncontain one or more lasers. These laser systems may be \ndisabled for safety reasons if"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "is this iphone 17",
+          "timestamp": "2025-10-11T07:37:57.052762",
+          "product_id": "iphone-17-info",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "I don't have info on that yet. Try rephrasing or contact support.",
+          "timestamp": "2025-10-11T07:37:57.074703",
+          "product_id": "iphone-17-info",
+          "sources": [
+            "International Ltd., Hollyhill Industrial Estate, Cork, \nIreland. Apple\u2019s UK representative is Apple UK Ltd., \n280 Bishopsgate, London, EC2M 4RB.\n    \n    \nA3520: The power delivered by the charger mus",
+            "a claim under this warranty.\nFor EU/EFTA/UK Consumers: Apple means Apple \nDistribution International Ltd., Hollyhill Industrial Estate, \nCork, Ireland. Consumers might have remedies free \nof charge ag",
+            "Medical Device Interference\niPhone contains magnets as well as components and/or \nradios that may interfere with medical devices. See \n\u201cImportant safety information\u201d in the iPhone User Guide.\nAccessib"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "what are the frequencies",
+          "timestamp": "2025-10-11T07:39:32.191127",
+          "product_id": "iphone-17-info",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "Here are the frequencies mentioned in the provided context:\n\n- 13.56 MHz\n- 360 kHz\n- 6.0 - 8.5 GHz\n- 1610 - 1626.5 MHz\n- 2.4 GHz\n- 5.150 - 5.250 GHz\n- 5.250 - 5.350 GHz\n- 5.470 - 5.725 GHz\n- 5.725 - 5.875 GHz\n- 5.925 - 6.425 GHz (LPI) or 5.945 - 6.425 GHz (elsewhere)",
+          "timestamp": "2025-10-11T07:39:32.211073",
+          "product_id": "iphone-17-info",
+          "sources": [
+            "38, 40, 42)\u00a0\n< 25.7dBm\nFrequency\nMaximum Power\nLTE/5GNR (41, 77, 78)\u00a0\n< 28.7dBm\n13.56 MHz\u00a0\n< 42dB\u00b5A/m @10m\u00a0\n360 kHz\n< -15dB\u00b5A/m @10m\u00a0\n6.0 - 8.5 GHz\n< 0dBm/50 MHz\u00a0\n1610 - 1626.5 MHz\u00a0\n< 27.5dBm\u00a0\n2.4 GHz",
+            "Ed. 3., as described in Laser Notice No. 56, dated May 8, \n2019. Caution: This device contains one or more lasers. \nUse other than as described in the user guide, repair, or \ndisassembly may cause dam",
+            "Medical Device Interference\niPhone contains magnets as well as components and/or \nradios that may interfere with medical devices. See \n\u201cImportant safety information\u201d in the iPhone User Guide.\nAccessib"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "what are thr frequensis",
+          "timestamp": "2025-10-11T07:39:43.280131",
+          "product_id": "iphone-17-info",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "I don't have info on that yet. Try rephrasing or contact support.",
+          "timestamp": "2025-10-11T07:39:43.301074",
+          "product_id": "iphone-17-info",
+          "sources": [
+            "38, 40, 42)\u00a0\n< 25.7dBm\nFrequency\nMaximum Power\nLTE/5GNR (41, 77, 78)\u00a0\n< 28.7dBm\n13.56 MHz\u00a0\n< 42dB\u00b5A/m @10m\u00a0\n360 kHz\n< -15dB\u00b5A/m @10m\u00a0\n6.0 - 8.5 GHz\n< 0dBm/50 MHz\u00a0\n1610 - 1626.5 MHz\u00a0\n< 27.5dBm\u00a0\n2.4 GHz",
+            "a claim under this warranty.\nFor EU/EFTA/UK Consumers: Apple means Apple \nDistribution International Ltd., Hollyhill Industrial Estate, \nCork, Ireland. Consumers might have remedies free \nof charge ag",
+            "\u201cImportant safety information\u201d in the iPhone User Guide.\nLasers\nThe proximity sensor and the front camera system \ncontain one or more lasers. These laser systems may be \ndisabled for safety reasons if"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "What is Return Policy:\n- Items can be returned within 30 days of purchase?",
+          "timestamp": "2025-10-11T10:15:57.230677",
+          "product_id": "return_policy",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "Yes, according to both documents (doc_1 and doc_2), items can be returned within 30 days of purchase.",
+          "timestamp": "2025-10-11T10:15:57.245728",
+          "product_id": "return_policy",
+          "sources": [
+            "Return Policy:\n- Items can be returned within 30 days of purchase.\n- Products must be unused and in original packaging.\n- Refunds will be processed within 5 business days.",
+            "Return Policy:\n- Items can be returned within 30 days of purchase.\n- Products must be unused and in original packaging.\n- Refunds will be processed within 5 business days."
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "What is For EU/EFTA/UK Consumers: Apple means Apple \nDistribution International Ltd?",
+          "timestamp": "2025-10-11T10:16:01.400500",
+          "product_id": "iphone-17-info",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "Apple Distribution International Ltd., Hollyhill Industrial Estate, Cork, Ireland.",
+          "timestamp": "2025-10-11T10:16:01.416122",
+          "product_id": "iphone-17-info",
+          "sources": [
+            "a claim under this warranty.\nFor EU/EFTA/UK Consumers: Apple means Apple \nDistribution International Ltd., Hollyhill Industrial Estate, \nCork, Ireland. Consumers might have remedies free \nof charge ag",
+            "nor damage caused by accident or abuse. To obtain \nservice, call Apple or visit an Apple Store or an Apple \nAuthorized Service Provider\u2014available service options are \ndependent on the country in which",
+            "Medical Device Interference\niPhone contains magnets as well as components and/or \nradios that may interfere with medical devices. See \n\u201cImportant safety information\u201d in the iPhone User Guide.\nAccessib"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "What is customer assistance?",
+          "timestamp": "2025-10-11T10:16:05.116351",
+          "product_id": "Resume.final",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "Recognized for adaptability, quick learning, teamwork, and clear communication, with a keen interest in applying problem-solving skills to real-world challenges.",
+          "timestamp": "2025-10-11T10:16:05.134021",
+          "product_id": "Resume.final",
+          "sources": [
+            "customer assistance. Recognized for adaptability, quick learning, teamwork, and clear communication, with a\nkeen interest in applying problem-solving skills to real-world challenges.\nEducation\nBachelo",
+            "Vijesh Krishna\nBengaluru, Karnataka | +91 9886393788 | vijeshkrishna91@gmail.com | Portfolio: vijeshkrishna.netlify.app\nLinkedIn: https://www.linkedin.com/in/vijesh-krishna/ | Github: https://github.c",
+            "Grafana.\n\u2022 Optimized database schemas, integrated location-based APIs, and created Grafana dashboards for real-time insights.\nAI Azure Internship (Microsoft\u2013AICTE, Edunet Foundation) | 11th Jun 2025 t"
+          ]
+        },
+        {
+          "sender": "user",
+          "text": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+          "timestamp": "2025-10-11T10:16:17.462908",
+          "product_id": "Resume.final",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "I don't have info on that yet. Try rephrasing or contact support.",
+          "timestamp": "2025-10-11T10:16:17.480455",
+          "product_id": "Resume.final",
+          "sources": [
+            "Vijesh Krishna\nBengaluru, Karnataka | +91 9886393788 | vijeshkrishna91@gmail.com | Portfolio: vijeshkrishna.netlify.app\nLinkedIn: https://www.linkedin.com/in/vijesh-krishna/ | Github: https://github.c",
+            "Grafana.\n\u2022 Optimized database schemas, integrated location-based APIs, and created Grafana dashboards for real-time insights.\nAI Azure Internship (Microsoft\u2013AICTE, Edunet Foundation) | 11th Jun 2025 t",
+            "customer assistance. Recognized for adaptability, quick learning, teamwork, and clear communication, with a\nkeen interest in applying problem-solving skills to real-world challenges.\nEducation\nBachelo"
+          ]
+        }
+      ],
+      "created_at": "2025-10-10T01:21:55.292409",
+      "updated_at": "2025-10-11T10:16:17.480455"
+    }
+  ],
+  "amaly": [
+    {
+      "id": "028a2a67-d2e9-4577-a47b-7d01f41ee5ae",
+      "title": "New Chat",
+      "messages": [],
+      "created_at": "2025-10-08T20:24:22.418356",
+      "updated_at": "2025-10-08T20:24:22.418356"
+    },
+    {
+      "id": "54d47c06-be26-4ac1-82d5-21b731c96317",
+      "title": "workshop",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "workshop",
+          "timestamp": "2025-10-08T20:24:37.158040",
+          "product_id": "Resume.final",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "Gained exposure to Data Analytics (Power BI, Kaggle, Excel), Generative AI (10+ AI tools), Cloud Deployment (AWS S3), and UI/UX Design (Figma) through multiple hands-on workshops.",
+          "timestamp": "2025-10-08T20:24:37.163027",
+          "product_id": "Resume.final",
+          "sources": [
+            "Responsive Web Applications: Created dynamic and responsive websites using HTML, CSS, JavaScript, and React.js,\nensuring accessibility and mobile-first design.\nCertifications\nWorkshops: Gained exposur",
+            "customer assistance. Recognized for adaptability, quick learning, teamwork, and clear communication, with a\nkeen interest in applying problem-solving skills to real-world challenges.\nEducation\nBachelo",
+            "Vijesh Krishna\nBengaluru, Karnataka | +91 9886393788 | vijeshkrishna91@gmail.com | Portfolio: vijeshkrishna.netlify.app\nLinkedIn: https://www.linkedin.com/in/vijesh-krishna/ | Github: https://github.c"
+          ]
+        }
+      ],
+      "created_at": "2025-10-08T20:24:22.444285",
+      "updated_at": "2025-10-08T20:24:37.163027"
+    }
+  ],
+  "sai": [
+    {
+      "id": "06f5cbbd-9e5e-424e-8f81-6fcb57c20825",
+      "title": "New Chat",
+      "messages": [],
+      "created_at": "2025-10-08T20:25:17.193161",
+      "updated_at": "2025-10-08T20:25:17.193161"
+    }
+  ],
+  "pranav": [
+    {
+      "id": "445110ad-f865-4285-bdc8-0eb13ebe8250",
+      "title": "New Chat",
+      "messages": [],
+      "created_at": "2025-10-08T20:25:39.703472",
+      "updated_at": "2025-10-08T20:25:39.703472"
+    },
+    {
+      "id": "dbde55f3-3d4c-44f3-a9f0-a697e6e4f535",
+      "title": "workshops",
+      "messages": [
+        {
+          "sender": "user",
+          "text": "workshops",
+          "timestamp": "2025-10-08T20:25:55.330172",
+          "product_id": "Resume.final",
+          "sources": []
+        },
+        {
+          "sender": "assistant",
+          "text": "Gained exposure to Data Analytics (Power BI, Kaggle, Excel), Generative AI (10+ AI tools), Cloud Deployment (AWS S3), and UI/UX Design (Figma) through multiple hands-on workshops.",
+          "timestamp": "2025-10-08T20:25:55.335868",
+          "product_id": "Resume.final",
+          "sources": [
+            "Responsive Web Applications: Created dynamic and responsive websites using HTML, CSS, JavaScript, and React.js,\nensuring accessibility and mobile-first design.\nCertifications\nWorkshops: Gained exposur",
+            "customer assistance. Recognized for adaptability, quick learning, teamwork, and clear communication, with a\nkeen interest in applying problem-solving skills to real-world challenges.\nEducation\nBachelo",
+            "Vijesh Krishna\nBengaluru, Karnataka | +91 9886393788 | vijeshkrishna91@gmail.com | Portfolio: vijeshkrishna.netlify.app\nLinkedIn: https://www.linkedin.com/in/vijesh-krishna/ | Github: https://github.c"
+          ]
+        }
+      ],
+      "created_at": "2025-10-08T20:25:39.729403",
+      "updated_at": "2025-10-08T20:25:55.335868"
+    }
+  ],
+  "": [
+    {
+      "id": "20dcea25-9040-4bec-9eca-35cf46f8210f",
+      "title": "New Chat",
+      "messages": [],
+      "created_at": "2025-10-09T19:39:22.357410",
+      "updated_at": "2025-10-09T19:39:22.357410"
+    },
+    {
+      "id": "f72ba981-1be4-4fb0-abdf-081f6825ffcc",
+      "title": "New Chat",
+      "messages": [],
+      "created_at": "2025-10-09T19:39:22.381346",
+      "updated_at": "2025-10-09T19:39:22.381346"
+    }
+  ],
+  "anand": [
+    {
+      "id": "60ca6043-c677-4caa-9e6a-97245b1b3cdf",
+      "title": "New Chat",
+      "messages": [],
+      "created_at": "2025-10-09T23:39:00.125010",
+      "updated_at": "2025-10-09T23:39:00.125010"
+    },
+    {
+      "id": "58b151a6-37f8-46e1-bcf7-5fbc131f6513",
+      "title": "New Chat",
+      "messages": [],
+      "created_at": "2025-10-09T23:39:00.150941",
+      "updated_at": "2025-10-09T23:39:00.150941"
+    }
+  ]
+}
