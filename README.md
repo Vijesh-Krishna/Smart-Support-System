@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/Framework-FastAPI-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AI-RAG_Pipeline-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deployment-Render_+_Vercel-success?style=for-the-badge"/>
 </p>
 
 ---
