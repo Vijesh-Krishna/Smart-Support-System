@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/AI-RAG_Pipeline-orange?style=for-the-badge"/>
 </p>
 
----
+
 
 ## 🚀 Overview
 
@@ -22,7 +22,7 @@ Admins can easily manage files, analyze user interactions, and monitor unanswere
 
 > 🎯 Designed as a **portfolio-ready project** showcasing end-to-end full-stack + AI integration skills.
 
----
+
 
 ## ✨ Features
 
@@ -38,7 +38,7 @@ Admins can easily manage files, analyze user interactions, and monitor unanswere
 | 🧩 **Modular Codebase** | Cleanly separated backend modules for scalability |
 | ☁️ **Future Ready** | Optimized for cloud deployment (Render + Vercel) |
 
----
+
 
 ## 🧠 Tech Stack
 
@@ -51,49 +51,48 @@ Admins can easily manage files, analyze user interactions, and monitor unanswere
 | 🔒 **Authentication** | JSON Web Tokens (JWT) |
 | ☁️ **Deployment** | Render (Backend) + Vercel (Frontend) |
 
----
+
 
 ## 🗂️ Project Structure
 
 smart-support-system/
 │
 ├── backend/
-│ ├── app/
-│ │ ├── api/
-│ │ │ ├── admin_routes.py
-│ │ │ ├── auth_routes.py
-│ │ │ ├── chat_routes.py
-│ │ │ └── user_routes.py
-│ │ ├── core/
-│ │ │ └── config.py
-│ │ ├── models/
-│ │ │ └── user_model.py
-│ │ ├── services/
-│ │ │ ├── auth_service.py
-│ │ │ ├── conversation_service.py
-│ │ │ ├── ingest_service.py
-│ │ │ ├── analytics_service.py
-│ │ │ ├── rag_pipeline.py
-│ │ │ └── db_service.py
-│ │ ├── utils/
-│ │ │ └── security.py
-│ │ ├── main.py
-│ │ ├── database.py
-│ │ └── db.py
+│   ├── app/
+│   │   ├── api/
+│   │   │   ├── admin_routes.py
+│   │   │   ├── auth_routes.py
+│   │   │   ├── chat_routes.py
+│   │   │   └── user_routes.py
+│   │   ├── core/
+│   │   │   ├── config.py
+│   │   ├── models/
+│   │   │   ├── user_model.py
+│   │   ├── services/
+│   │   │   ├── auth_service.py
+│   │   │   ├── conversation_service.py
+│   │   │   ├── ingest_service.py
+│   │   │   ├── analytics_service.py
+│   │   │   ├── rag_pipeline.py
+│   │   │   └── db_service.py
+│   │   ├── utils/
+│   │   │   └── security.py
+│   │   ├── main.py
+│   │   ├── database.py
+│   │   └── db.py
 │
 └── frontend/
-├── src/
-│ ├── pages/
-│ │ ├── Login.jsx
-│ │ ├── Register.jsx
-│ │ ├── Chat.jsx
-│ │ └── Dashboard.jsx
-│ ├── context/
-│ │ └── AuthContext.jsx
-│ └── utils/
-│ └── api.js
-├── package.json
-└── vite.config.js
+    ├── src/
+    │   ├── pages/
+    │   │   ├── Login.jsx
+    │   │   ├── Register.jsx
+    │   │   ├── Chat.jsx
+    │   │   └── Dashboard.jsx
+    │   ├── context/AuthContext.jsx
+    │   └── utils/api.js
+    ├── package.json
+    └── vite.config.js
+
 
 
 📊 Admin Dashboard
@@ -120,5 +119,4 @@ Vijesh Krishna
 💼 Aspiring Full Stack + AI Developer
 
 
-<p align="center"> Made with ❤️ using <b>FastAPI</b> + <b>React</b> <br/> © 2025 Smart Support System. All rights reserved. </p> ```
-
+<p align="center"> Made with ❤️ using <b>FastAPI</b> + <b>React</b> <br/> © 2025 Smart Support System. All rights reserved. </p>
