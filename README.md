@@ -72,10 +72,9 @@ Admins can easily manage files, analyze user interactions, and monitor unanswere
 
 
 👨‍💻 Author
-
 Vijesh Krishna
 📍 Bengaluru, India
 💼 Aspiring Full Stack + AI Developer
 
 
-<p align="center"> Made with ❤️ using <b>FastAPI</b> + <b>React</b> <br/> © 2025 Smart Support System. All rights reserved. </p>
+<p align="center"> © 2025 Smart Support System. All rights reserved. </p>
