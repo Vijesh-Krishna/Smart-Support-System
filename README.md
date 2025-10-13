@@ -12,7 +12,6 @@
 </p>
 
 
-
 ## 🚀 Overview
 
 The **Smart Support System** is a full-stack **AI chatbot** that delivers real-time, context-aware responses by processing uploaded knowledge base files.
@@ -21,7 +20,6 @@ It uses a **Retrieval-Augmented Generation (RAG)** pipeline to intelligently ret
 Admins can easily manage files, analyze user interactions, and monitor unanswered queries through a modern **Admin Dashboard**.
 
 > 🎯 Designed as a **portfolio-ready project** showcasing end-to-end full-stack + AI integration skills.
-
 
 
 ## ✨ Features
@@ -52,54 +50,12 @@ Admins can easily manage files, analyze user interactions, and monitor unanswere
 | ☁️ **Deployment** | Render (Backend) + Vercel (Frontend) |
 
 
-
-## 🗂️ Project Structure
-
-smart-support-system/
-│
-├── backend/
-│   ├── app/
-│   │   ├── api/
-│   │   │   ├── admin_routes.py
-│   │   │   ├── auth_routes.py
-│   │   │   ├── chat_routes.py
-│   │   │   └── user_routes.py
-│   │   ├── core/
-│   │   │   ├── config.py
-│   │   ├── models/
-│   │   │   ├── user_model.py
-│   │   ├── services/
-│   │   │   ├── auth_service.py
-│   │   │   ├── conversation_service.py
-│   │   │   ├── ingest_service.py
-│   │   │   ├── analytics_service.py
-│   │   │   ├── rag_pipeline.py
-│   │   │   └── db_service.py
-│   │   ├── utils/
-│   │   │   └── security.py
-│   │   ├── main.py
-│   │   ├── database.py
-│   │   └── db.py
-│
-└── frontend/
-    ├── src/
-    │   ├── pages/
-    │   │   ├── Login.jsx
-    │   │   ├── Register.jsx
-    │   │   ├── Chat.jsx
-    │   │   └── Dashboard.jsx
-    │   ├── context/AuthContext.jsx
-    │   └── utils/api.js
-    ├── package.json
-    └── vite.config.js
-
-
-
 📊 Admin Dashboard
   🧑‍💼 Admin Capabilities:
     ✅ Upload & delete knowledge files  
     📈 View total users, query counts, and analytics
     🔎 Monitor failed queries and performance metrics  
+
 
 ## 🚧 Future Enhancements
 
