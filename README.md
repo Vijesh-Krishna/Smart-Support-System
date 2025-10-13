@@ -55,3 +55,70 @@ Admins can easily manage files, analyze user interactions, and monitor unanswere
 
 ## 🗂️ Project Structure
 
+smart-support-system/
+│
+├── backend/
+│ ├── app/
+│ │ ├── api/
+│ │ │ ├── admin_routes.py
+│ │ │ ├── auth_routes.py
+│ │ │ ├── chat_routes.py
+│ │ │ └── user_routes.py
+│ │ ├── core/
+│ │ │ └── config.py
+│ │ ├── models/
+│ │ │ └── user_model.py
+│ │ ├── services/
+│ │ │ ├── auth_service.py
+│ │ │ ├── conversation_service.py
+│ │ │ ├── ingest_service.py
+│ │ │ ├── analytics_service.py
+│ │ │ ├── rag_pipeline.py
+│ │ │ └── db_service.py
+│ │ ├── utils/
+│ │ │ └── security.py
+│ │ ├── main.py
+│ │ ├── database.py
+│ │ └── db.py
+│
+└── frontend/
+├── src/
+│ ├── pages/
+│ │ ├── Login.jsx
+│ │ ├── Register.jsx
+│ │ ├── Chat.jsx
+│ │ └── Dashboard.jsx
+│ ├── context/
+│ │ └── AuthContext.jsx
+│ └── utils/
+│ └── api.js
+├── package.json
+└── vite.config.js
+
+
+📊 Admin Dashboard
+  🧑‍💼 Admin Capabilities:
+    ✅ Upload & delete knowledge files  
+    📈 View total users, query counts, and analytics
+    🔎 Monitor failed queries and performance metrics  
+
+## 🚧 Future Enhancements
+
+| 🚀 Feature | 📝 Description |
+|-------------|----------------|
+| 🧠 **Human Escalation** | Route low-confidence chatbot queries to human agents for review and resolution |
+| 📈 **Advanced Analytics** | Enable filtering by date, topic, and user activity to gain deeper insights |
+| 🌍 **Multi-language Support** | Expand chatbot capabilities for multilingual communication |
+| ☁️ **Cloud DB Integration** | Replace JSON-based storage with scalable cloud databases like MongoDB or PostgreSQL |
+| 🎤 **Voice Input** | Add speech-to-text support for enhanced accessibility and hands-free usage |
+
+
+👨‍💻 Author
+
+Vijesh Krishna
+📍 Bengaluru, India
+💼 Aspiring Full Stack + AI Developer
+
+
+<p align="center"> Made with ❤️ using <b>FastAPI</b> + <b>React</b> <br/> © 2025 Smart Support System. All rights reserved. </p> ```
+
