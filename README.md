@@ -17,6 +17,7 @@
 The **Smart Support System** is a full-stack **AI chatbot** that delivers real-time, context-aware responses by processing uploaded knowledge base files.
 
 It uses a **Retrieval-Augmented Generation (RAG)** pipeline to intelligently retrieve relevant document information before generating a response.  
+
 Admins can easily manage files, analyze user interactions, and monitor unanswered queries through a modern **Admin Dashboard**.
 
 > 🎯 Designed as a **portfolio-ready project** showcasing end-to-end full-stack + AI integration skills.
