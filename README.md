@@ -51,7 +51,9 @@ Admins can easily manage files, analyze user interactions, and monitor unanswere
 
 
 📊 Admin Dashboard
+
   🧑‍💼 Admin Capabilities:
+  
     ✅ Upload & delete knowledge files  
     📈 View total users, query counts, and analytics
     🔎 Monitor failed queries and performance metrics  
