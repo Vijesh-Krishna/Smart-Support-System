@@ -1,10 +1,14 @@
 # Smart Support System (RAG customer support)
 
 ## Quick start (local)
+
 # backend
+
 cd backend
 python -m venv venv
+
 # windows: venv\Scripts\activate  linux/mac: source venv/bin/activate
+
 pip install -r requirements.txt
 export ALLOWED_ORIGINS=http://localhost:5173
 uvicorn app.main:app --reload --port 8000
