@@ -71,10 +71,11 @@ Admins can easily manage files, analyze user interactions, and monitor unanswere
 | 🎤 **Voice Input** | Add speech-to-text support for enhanced accessibility and hands-free usage |
 
 
-👨‍💻 Author
-Vijesh Krishna
-📍 Bengaluru, India
-💼 Aspiring Full Stack + AI Developer
+---
+
+If this project resonates with you or your organization, I’d love to connect and collaborate on similar **tech-for-social-good** initiatives.
+
+**– Vijesh Krishna**
+[Portfolio](https://vijeshkrishna.netlify.app) | [LinkedIn](https://www.linkedin.com/in/vijesh-krishna/) | [GitHub](https://github.com/Vijesh-Krishna)
 
 
-<p align="center"> © 2025 Smart Support System. All rights reserved. </p>
