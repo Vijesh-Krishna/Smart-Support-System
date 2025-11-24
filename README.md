@@ -50,6 +50,7 @@ Admins can easily manage files, analyze user interactions, and monitor unanswere
 | 🔒 **Authentication** | JSON Web Tokens (JWT) |
 | ☁️ **Deployment** | Render (Backend) + Vercel (Frontend) |
 
+---
 
 📊 Admin Dashboard
 
